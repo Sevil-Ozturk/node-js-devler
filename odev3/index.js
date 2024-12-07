@@ -1,4 +1,4 @@
-const { circleArea, circleCircumference } = require('./circle');
+import { circleArea, circleCircumference } from './circle.js';
 
 const r = 5;
 

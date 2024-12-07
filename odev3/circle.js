@@ -1,8 +1,8 @@
-function circleArea(r){
+export function circleArea(r){
     return Math.PI * r * r;
 }
 
-function circleCircumference(r){
+export function circleCircumference(r){
     return 2 * Math.PI * r;
 }
 
